@@ -1,13 +1,12 @@
- [{
-    "author" : "Reddy", 
-    "name" : "Qlin", 
-    "keyWords" : "Reddy, Theme, darkStone, Clean, Dofus",
-    "version" : "0.0.1",
-    "dofusVersion" : "2.56", 
-    "description" : "Clean theme by @Reddy (Twitter)", 
-    "url" : "https://github.com/RedddyHub/qlin/raw/master/Qlin.zip",
-    "previewUrl" : "https://github.com/RedddyHub/qlin/raw/master/qlin.jpg", 
-    "creationDate" : "12/03/2019", 
-    "modificationDate" : "16/08/2020"
+[{
+        "author": "Reddy",
+        "name": "Qlin",
+        "keyWords": "Reddy, Theme, Thème, Dofus, darkStone",
+        "version": "0.0.7",
+        "dofusVersion": "2.56",
+        "description": "Clean Theme, Theme by @Reddymit (Twitter)",
+        "url": "https://github.com/RedddyHub/qlin/raw/master/Qlin.zip",
+        "previewUrl": "https://github.com/RedddyHub/qlin/raw/master/qlin.jpg",
+        "creationDate": "12/03/2019",
+        "modificationDate": "15/08/2020"
     }]
-  
